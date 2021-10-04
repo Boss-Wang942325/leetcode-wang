@@ -1,7 +1,9 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
     },
     "editor.fontFamily": "'Fira Code', Consolas, 'Microsoft Yahei'",
     "editor.fontLigatures": true,//这个控制是否启用字体连字，true启用，false不启用，这里选择启用
